@@ -69,13 +69,13 @@ new_function_1()
 print("#3 value of n = ",n)
 
 
-
+'''
 assignement - write a function which evalutae leap year
 function will take param as input year value return true or False
 year value should pass to function from any loop (for / while)
 
 year_list = (1990 , ,,2025)
-
+'''
 
 
 
