@@ -1,0 +1,28 @@
+#To get the version in Windows
+pip --version
+
+#to get version on linux
+pip --version #this will return pip version assosiated with python 2.7
+pip3 --version #this will return pip version assosiated with python 3.X
+
+#To get the help for pip
+pip help
+
+#to get the help on any operation / function
+pip help opertation / function
+e.g pip help install
+
+#to get the list of the installed packages
+pip list
+
+#to get the details of any package
+pip show <package_name>
+
+#to install or update package with latest version
+pip install -U <package_name>
+
+#to install any specific package name
+pip install <package_name>==<version>
+
+#to install package at any target location for example current working directory
+pip install -U <package_name> -t .
